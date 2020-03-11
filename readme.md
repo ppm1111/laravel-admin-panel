@@ -73,15 +73,3 @@ The default admin login is:
     Email Address: admin@example.com
     Password: admin123
 
-### Digging Deeper
-
-Please see the [documentation](https://lap.kjjdion.com/docs) for more information.
-
-### Contributing
-
-- [Buy me a coffee](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NWJGV49MPZZSQ&source=url)
-- [Submit a pull request](https://github.com/kjjdion/laravel-admin-panel/pulls)
-
-### Support
-
-Please use [GitHub issues](https://github.com/kjjdion/laravel-admin-panel/issues) for support.
