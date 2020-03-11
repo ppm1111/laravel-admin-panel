@@ -2,10 +2,7 @@
 
 Laravel Admin Panel ("LAP") is a drop-in admin panel package for Laravel which promotes rapid scaffolding & development.
 
-- [Demo](https://lap.kjjdion.com/admin)
 - [Screenshots](https://imgur.com/a/12mGWNW)
-- [Documentation](https://lap.kjjdion.com/docs)
-- [GitHub](https://github.com/kjjdion/laravel-admin-panel)
 
 Features:
 
@@ -24,7 +21,7 @@ Features:
 
 Packages used:
 
-- [Laravel 5.7](https://laravel.com/)
+- [Laravel6](https://laravel.com/)
 - [Laravel Datatables](https://github.com/yajra/laravel-datatables)
 - [Laravel Nestedset](https://github.com/lazychaser/laravel-nestedset)
 - [Parsedown](http://parsedown.org/)
@@ -40,7 +37,7 @@ Assets used:
 
 Require via composer:
 
-    composer require kjjdion/laravel-admin-panel
+    composer require ppm1111/laravel-admin-panel
 
 Publish install files:
 
